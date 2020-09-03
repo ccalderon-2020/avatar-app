@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+.ScoreCont{
+    display: block;
+    font-family: Open Sans;
+}
+
+.ScoreCont-info{
+    justify-content: space-between;
+    display: flex;
+    width: 500px;
+    padding-left: 0px;
+    margin-left: 0;
+    text-align: left;
+}
+
+.ScoreCont-info p{
+    width: 200px;
+    margin-inline-start: auto;
+}
+
+.ScoreCont-info div{
+    margin-left: 100px;
+    align-self: center;
+    width: 180px;
+    height: 20px;
+}
+
+.ScoreCont-info img{
+    width: 20px;
+}

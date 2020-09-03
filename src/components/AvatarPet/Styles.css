@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+.AvatarPetCont{
+    width: 724px;
+    height: 860px;
+    margin-left: 1.25%;
+    margin-top: 2.5%;
+    padding: 5px;    
+    border-style: solid;
+	border-color: royalblue;
+    border-width: thin;
+    font-family: open Sans;
+}
+
+.PetCont{ 
+    width: 350px;   
+    text-align:start;
+    margin-left: 0.75%;
+    margin-top: 1.25%; 
+}
+
+.PetCont img{
+       			
+    border-radius: 20px;
+}
+
+.BreedCont{    
+    width: 350px;
+    color: mediumslateblue;
+    font-weight: bold;    
+    font-size: 30px;
+    text-align: center; 
+    margin-left: 1.25%;
+    margin-bottom: 5%;
+}
+
+.FactSheetCont{
+    width: 350px;
+    font-weight: bold;
+    font-size: 21px;
+    text-align: center;
+    margin-left: 1.25%; 
+    margin-bottom: 5%;
+}
